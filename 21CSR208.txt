@@ -1,4 +1,4 @@
 Name : Sriram
 Roll No : 21CSR208
-Dept : CSE
+Dept : cse
 
